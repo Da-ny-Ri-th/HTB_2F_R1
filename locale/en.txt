@@ -1,0 +1,51 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = HATTHA BANK PROJECT-2F
+
+## Skin
+
+### Button
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+
+### Multiline Text
+HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><B>{{Subtitle}}</B></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, 2F HR DIVISION
+
+## Media
+
+### Subtitle
+panorama_355FF64C_392B_C3F7_41AE_10F502D07375.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
+2- Projector Screen with remote-control is by client \
+3- Projector & Mechanism remote-control is by client
+panorama_826B8848_9726_C5E8_41CE_327D36AA7F93.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
+2- Smart TV is by client
+panorama_9B987B4D_973A_45DE_41DF_33D685E8FB56.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
+2- Projector Screen with remote-control is by client \
+3- Projector & Mechanism remote-control is by client
+panorama_9B9B8AFB_973A_44B9_41C6_A7B4CF8E9B9E.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
+2- Projector Screen with remote-control is by client \
+3- Projector & Mechanism remote-control is by client
+panorama_A2EB1155_97EA_4662_41E1_2EB3F22205A9.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point)
+
+### Title
+map_82EA76DD_973D_CD31_41D5_EFBF7DE0B078.label = 2F - Key layout mini map
+panorama_355FF64C_392B_C3F7_41AE_10F502D07375.label = Note:
+panorama_826B8848_9726_C5E8_41CE_327D36AA7F93.label = Note:
+panorama_9B987B4D_973A_45DE_41DF_33D685E8FB56.label = Note:
+panorama_9B9B8AFB_973A_44B9_41C6_A7B4CF8E9B9E.label = Note:
+panorama_A2EB1155_97EA_4662_41E1_2EB3F22205A9.label = Note:
+
+## Action
+
+### URL
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc
