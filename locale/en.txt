@@ -25,23 +25,23 @@ Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, 2F HR DIV
 panorama_355FF64C_392B_C3F7_41AE_10F502D07375.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
 2- Projector Screen with remote-control is by client \
 3- Projector & Mechanism remote-control is by client
-panorama_826B8848_9726_C5E8_41CE_327D36AA7F93.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
+panorama_FE3BF1E8_F32D_FA54_41E9_2E1CCD36D396.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
 2- Smart TV is by client
-panorama_9B987B4D_973A_45DE_41DF_33D685E8FB56.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
+panorama_FE750A04_F32D_49DD_418A_A5F4FE803316.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
 2- Projector Screen with remote-control is by client \
 3- Projector & Mechanism remote-control is by client
-panorama_9B9B8AFB_973A_44B9_41C6_A7B4CF8E9B9E.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
+panorama_FE97B1F3_F32D_FA3B_41E8_2A9FE681786C.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
 2- Projector Screen with remote-control is by client \
 3- Projector & Mechanism remote-control is by client
-panorama_A2EB1155_97EA_4662_41E1_2EB3F22205A9.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point)
+panorama_FED82A63_F375_4E23_41B5_D4CC1B060668.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point)
 
 ### Title
 map_82EA76DD_973D_CD31_41D5_EFBF7DE0B078.label = 2F - Key layout mini map
 panorama_355FF64C_392B_C3F7_41AE_10F502D07375.label = Note:
-panorama_826B8848_9726_C5E8_41CE_327D36AA7F93.label = Note:
-panorama_9B987B4D_973A_45DE_41DF_33D685E8FB56.label = Note:
-panorama_9B9B8AFB_973A_44B9_41C6_A7B4CF8E9B9E.label = Note:
-panorama_A2EB1155_97EA_4662_41E1_2EB3F22205A9.label = Note:
+panorama_FE3BF1E8_F32D_FA54_41E9_2E1CCD36D396.label = Note:
+panorama_FE750A04_F32D_49DD_418A_A5F4FE803316.label = Note:
+panorama_FE97B1F3_F32D_FA3B_41E8_2A9FE681786C.label = Note:
+panorama_FED82A63_F375_4E23_41B5_D4CC1B060668.label = Note:
 
 ## Action
 
